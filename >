@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="ur" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Dildar Magsi AI</title>
-<style>
-body{margin:0;font-family:sans-serif;background:#111;color:#fff;display:flex;flex-direction:column;height:100vh}
-#head{background:#075e54;padding:14px;text-align:center;font-weight:bold}
-#chat{flex:1;overflow:auto;padding:10px}
-.msg{padding:10px;margin:6px;border-radius:10px;max-width:80%}
-.user{background:#25d366;color:#000;margin-left:auto}
+ :#25d366;color:#000;margin-left:auto}
 .ai{background:#2a2f32}
 #box{display:flex;padding:10px;background:#202c33}
 input{flex:1;padding:12px;border-radius:20px;border:none}
